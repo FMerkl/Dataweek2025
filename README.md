@@ -1,3 +1,3 @@
-# Dataweek2025
+# Dataweek 2025
 
-blabla. Textt.
+blabla. Text.
